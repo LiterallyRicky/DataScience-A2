@@ -1,2 +1,1 @@
-# Ricky's Assignments
-# LASA: DataScience-A2
+# Ricky's Assignments - LASA: DataScience-A2
